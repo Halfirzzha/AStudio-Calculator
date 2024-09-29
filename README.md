@@ -21,11 +21,11 @@ Aplikasi ini memiliki antarmuka yang user-friendly dan responsif, sehingga dapat
 - Tombol angka 0-9 dan tombol desimal (.)
 
 ## Tangkapan Layar
-
 Berikut adalah tampilan dari aplikasi kalkulator:
 
-![https://github.com/Halfirzzha/AStudio-Calculator.git](![Android-ss](https://github.com/user-attachments/assets/5a8c176b-765f-47c7-a7ea-a67e63fc90ea)
-)
+<img src="https://github.com/user-attachments/assets/653ba129-41c0-41c3-a5e3-39dabdb288ac" alt="Android-ss" width="300"/>
+
+
 
 ## Cara Menjalankan Proyek
 
